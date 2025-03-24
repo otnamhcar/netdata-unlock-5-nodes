@@ -12,15 +12,16 @@ This allows to choose more than 5 nodes or any node that you want in your dashbo
 
 ## Install deno
 
-## What is deno
+### What is deno
 Deno (/ˈdiːnoʊ/, pronounced dee-no) is an open source JavaScript, TypeScript, and WebAssembly runtime with secure defaults and a great developer experience. It's built on V8, Rust, and Tokio.
-### install using cli
+### install deno using cli
 
 > curl -fsSL https://deno.land/install.sh | sh
 
-### install using npm (nodejs & npm must installed first)
+### install deno using npm (nodejs & npm must installed first)
 
 > npm install -g deno
+
 ### run Using the command line
 
 >  `deno task run`
