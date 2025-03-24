@@ -37,6 +37,8 @@ You can configure the program with these environment variables:
 - HOST: the hostname to bind to
 - NETDATA_BASE_URL: the URL to your netdata (eg. http://localhost:19999)
 
-
-
 You can also put these into a file `.env` by copying the `.env.example` file.
+
+## Deploy using PM2
+
+> pm2 start
