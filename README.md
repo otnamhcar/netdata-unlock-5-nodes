@@ -21,14 +21,12 @@ Deno (/ˈdiːnoʊ/, pronounced dee-no) is an open source JavaScript, TypeScript,
 ### install using npm (nodejs & npm must installed first)
 
 > npm install -g deno
-## Using the command line
+### run Using the command line
 
-1. Install Deno: https://docs.deno.com/runtime/getting_started/installation/
-2. Run: `deno task run`
+>  `deno task run`
 
-## Compile the program
-1. Install Deno: https://docs.deno.com/runtime/getting_started/installation/
-2. Run: `deno task compile`
+### Compile the program
+> `deno task compile`
 
 # Available configuration
 
