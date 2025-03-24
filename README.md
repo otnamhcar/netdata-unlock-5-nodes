@@ -28,6 +28,10 @@ Deno (/ˈdiːnoʊ/, pronounced dee-no) is an open source JavaScript, TypeScript,
 ### Compile the program
 > `deno task compile`
 
+### Deploy using PM2
+
+> pm2 start
+> 
 # Available configuration
 
 You can configure the program with these environment variables:
@@ -36,7 +40,3 @@ You can configure the program with these environment variables:
 - NETDATA_BASE_URL: the URL to your netdata (eg. http://localhost:19999)
 
 You can also put these into a file `.env` by copying the `.env.example` file.
-
-## Deploy using PM2
-
-> pm2 start
