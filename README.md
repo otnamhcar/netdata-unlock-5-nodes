@@ -1,5 +1,6 @@
-# this is my fork because i get this troublesome lately
+### i'm a new user for netdata, and just found out this restriction lately
 
+### thanks to [unixfox](https://github.com/unixfox/netdata-unlock-5-nodes)
 # Netdata unlock more than 5 nodes
 
 Project was created after this rant: https://www.reddit.com/r/selfhosted/comments/1i7msq3/netdata_you_can_now_view_5_nodes_at_a_time_unless/?rdt=37893
